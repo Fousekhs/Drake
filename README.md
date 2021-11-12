@@ -1,1 +1,2 @@
-# Drake
+This is a github repository for an exercise for the Web Technologies course of Uni.Pi
+In this exercise you are tasked to create a website for your favourite band/singer with at least 3 pages connected to each other
